@@ -1,1 +1,1 @@
-![Django Todo List](images/Green and Orange Gradiented Technology Mockup.png)
+![Django Todo List](images/preview.png)
